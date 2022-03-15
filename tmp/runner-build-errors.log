@@ -1,0 +1,2 @@
+# awesomeProject3/controller
+controller\register.go:76:55: cannot use nil as type string in argument to response.Success
